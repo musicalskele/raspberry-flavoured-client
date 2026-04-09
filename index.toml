@@ -39382,6 +39382,11 @@ hash = "67be233a74c694d188c8d3fdfa438e6be0ca05f31775c01d7ad50a7bc287cfd6"
 metafile = true
 
 [[files]]
+file = "mods/blahaj-reforged.pw.toml"
+hash = "cdb2eb283c81a1b6102f31dc8f862fe1cdb119cdf16076dffcf76d7178088906"
+metafile = true
+
+[[files]]
 file = "mods/block-swap.pw.toml"
 hash = "ba344e8d9cfe8c8f88c7a61ae99e044f3955a3e9c6ecf86849e9982bf4f2d9bd"
 metafile = true
@@ -39881,6 +39886,11 @@ hash = "89b713b99d91c115f56140d5372867d4daca26f4d8ff9fb1e03b51c18a5ca550"
 metafile = true
 
 [[files]]
+file = "mods/iris-flywheel-compat.pw.toml"
+hash = "87598614bbfd229dd539b6ba7316b0f5faf26302e6c66cb9e0db9846413c6174"
+metafile = true
+
+[[files]]
 file = "mods/item-obliterator.pw.toml"
 hash = "b43491b09b5338190a3d27ec84fccbe0f3eafef910569c17d64fa0d8182e0b02"
 metafile = true
@@ -40073,6 +40083,11 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "b1cee41a780aa8fbb9367dab6024a78c2b8e5a257ebed5d2754ff27f816d9cdd"
+metafile = true
+
+[[files]]
+file = "mods/oculus.pw.toml"
+hash = "4b3f975d37b2f5faf8bdf1f9643dcfd1eacb436a3ed64e7535e1c53317a84c69"
 metafile = true
 
 [[files]]
@@ -40277,6 +40292,11 @@ metafile = true
 [[files]]
 file = "mods/simple-discord-rpc.pw.toml"
 hash = "d94006a5350097fb6bdaf097dae2764ec2d00ca46ddcf8925eff64f8d8da3245"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "00f6f7d521cf604245d342dd5290082e40e66bda53c851da7a715b38eb7a0f92"
 metafile = true
 
 [[files]]
