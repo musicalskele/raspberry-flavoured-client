@@ -1,0 +1,13 @@
+name = "Brush Up!"
+filename = "Brush-Up-1.6.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "270b14bbeefdbf53596222f898c930100b8dc031"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4853344
+project-id = 836704

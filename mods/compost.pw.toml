@@ -1,0 +1,13 @@
+name = "Compost"
+filename = "compost-forge-1.19.2-2.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5116bca24d585059f72c62571a34687d553dc00e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6508531
+project-id = 581323

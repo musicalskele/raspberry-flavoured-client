@@ -1,0 +1,13 @@
+name = "Golden crit - Sr_Paulo"
+filename = "Golden crit.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2780c0d9711aeca8073ed10d441a7d0c78789fc9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4346655
+project-id = 811531

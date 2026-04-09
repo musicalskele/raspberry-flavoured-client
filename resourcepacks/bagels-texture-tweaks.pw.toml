@@ -1,0 +1,13 @@
+name = "Bagel's Texture Tweaks"
+filename = "texture_tweaks_v1.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e8ff7440ac79e7e94e4bfeb9f07d2ddb71b67827"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5306458
+project-id = 919723

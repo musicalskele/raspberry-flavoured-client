@@ -1,0 +1,13 @@
+name = "Quark Vanilla Resource Overrides"
+filename = "Quark VRO.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b952e903e4c1cae74b7ae16b3ab13bb2512b40fe"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6067524
+project-id = 350854

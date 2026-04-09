@@ -1,0 +1,13 @@
+name = "Bagel's Animal Tweaks"
+filename = "Bagel's Animal Tweaks.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f9febacc0c8acb2b099840288586060831732ebb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4645038
+project-id = 695008

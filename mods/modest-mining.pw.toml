@@ -1,0 +1,13 @@
+name = "Modest Mining"
+filename = "modestmining-0.2.16.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b058a30e8de73e187deff528873fd1681d058944"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7255793
+project-id = 533775

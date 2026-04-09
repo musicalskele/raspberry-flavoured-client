@@ -1,0 +1,13 @@
+name = "SHC Enhanced Fire"
+filename = "SHC Enhanced Fire.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ee536a8763d6475231dce48b080eed8b20cefc3b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4618420
+project-id = 860016

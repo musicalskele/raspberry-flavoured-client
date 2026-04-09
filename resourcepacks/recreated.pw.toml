@@ -1,0 +1,13 @@
+name = "Better Create Palettes"
+filename = "Better Create Palettes 1.3 1.20.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f27361821584811d7158004b5067ba419f7767fb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5439880
+project-id = 843493

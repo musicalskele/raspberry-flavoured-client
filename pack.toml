@@ -1,0 +1,13 @@
+name = "rosa-rf"
+author = "raspmary"
+version = "0.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "3a06b917459f3e337df05a901e88f9ad32d01d914a1fcf920f3abcab04beca36"
+
+[versions]
+forge = "43.5.1"
+minecraft = "1.19.2"

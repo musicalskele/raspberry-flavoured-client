@@ -1,0 +1,13 @@
+name = "Warm Polar Bear"
+filename = "Warm Polar Bear.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "15d11377e230e496d81c5178065dff74667c4d6d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4331521
+project-id = 809103

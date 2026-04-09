@@ -1,0 +1,13 @@
+name = "Reincarnation"
+filename = "Reincarnation.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f37b1c120a739c686f277f55c2e7fc9955b058e6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7317346
+project-id = 655939

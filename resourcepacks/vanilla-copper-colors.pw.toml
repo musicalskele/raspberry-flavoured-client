@@ -1,0 +1,13 @@
+name = "Create Reoxidized"
+filename = "Copper+Color+Fix+3.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ac027d81893d5628882fb6f657202fdbb235179b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4722573
+project-id = 543275

@@ -1,0 +1,13 @@
+name = "Deepslate Ore Fix"
+filename = "Deepslate Ore Fix.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7a55031d3069e1b68fa7f7237291de153fbb4b7c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4562010
+project-id = 597145

@@ -1,0 +1,13 @@
+name = "Better Mob Models"
+filename = "Better_Mobs_RP_1.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9f035862f4715577a245edc0b85476b2493d9a59"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4665487
+project-id = 678799

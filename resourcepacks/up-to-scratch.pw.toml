@@ -1,0 +1,13 @@
+name = "Up To Scratch"
+filename = "Up To Scratch V9.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6938070488dbdd3e32e1eb01f535081352acb3a0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3569554
+project-id = 422513

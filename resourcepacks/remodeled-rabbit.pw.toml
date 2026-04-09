@@ -1,0 +1,13 @@
+name = "Remodeled Rabbit"
+filename = "Remodeled Rabbit V3.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5909db27872413fa7b7d52705ac7f70d4422b3e5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4772221
+project-id = 813238

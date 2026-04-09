@@ -1,0 +1,13 @@
+name = "Paintings N' Discs Backport"
+filename = "PaintingsN'DiscsBackport_1.19.2_V1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "18601520cda5f622d1588b8f298fe50842b005ab"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5322096
+project-id = 1013697

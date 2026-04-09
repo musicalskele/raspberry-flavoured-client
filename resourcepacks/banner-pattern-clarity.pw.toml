@@ -1,0 +1,13 @@
+name = "(Bee's) Banner Pattern Clarity"
+filename = "Banner Pattern Clarity v1.5 pf8-34.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "afc1e6b77bfecdbf8af6d7ad0069f2a373d9c116"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5424486
+project-id = 592232

@@ -1,0 +1,13 @@
+name = "Bygone Fortress"
+filename = "bygonefortress-1.0.0-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b6eeddf632eab16c3b90d12d8efeff26762d155e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4678964
+project-id = 897354
