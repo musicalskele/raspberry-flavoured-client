@@ -39783,7 +39783,7 @@ metafile = true
 
 [[files]]
 file = "mods/figura.pw.toml"
-hash = "eef0f6e5abfcff1cecd0791a30c8651e0fc8ed2519639bd6bab403934bd5cca9"
+hash = "449d6ec8df54b823be3a06a932f47811145926f571279d6fc6209f064b6a8db9"
 metafile = true
 
 [[files]]
@@ -39887,7 +39887,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris-flywheel-compat.pw.toml"
-hash = "87598614bbfd229dd539b6ba7316b0f5faf26302e6c66cb9e0db9846413c6174"
+hash = "d3cd4aadddca31d7078a692b9757611997e70d508e9dcea15e31c59756a15a86"
 metafile = true
 
 [[files]]
@@ -40087,7 +40087,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "4b3f975d37b2f5faf8bdf1f9643dcfd1eacb436a3ed64e7535e1c53317a84c69"
+hash = "895056b338c2eed48db40104bd7c3aac8fa4bdef71c9bbd732535e10ea959623"
 metafile = true
 
 [[files]]
@@ -40296,7 +40296,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "00f6f7d521cf604245d342dd5290082e40e66bda53c851da7a715b38eb7a0f92"
+hash = "af0c8b2bbc123943700b38a969ffcd4f011378cbd74ef7394ae82836d81f0063"
 metafile = true
 
 [[files]]

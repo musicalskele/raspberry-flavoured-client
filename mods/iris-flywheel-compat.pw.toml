@@ -14,5 +14,5 @@ project-id = 659897
 
 [option]
 optional = true
-default = true
 description = "you will need this if you enable oculus."
+default = true
