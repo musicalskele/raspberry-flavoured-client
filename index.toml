@@ -39382,9 +39382,8 @@ hash = "67be233a74c694d188c8d3fdfa438e6be0ca05f31775c01d7ad50a7bc287cfd6"
 metafile = true
 
 [[files]]
-file = "mods/blahaj-reforged.pw.toml"
-hash = "cdb2eb283c81a1b6102f31dc8f862fe1cdb119cdf16076dffcf76d7178088906"
-metafile = true
+file = "mods/blahaj-forge-0.0.2.jar"
+hash = "3ad7c3b6cef701a4ba36d06b65fd6f88f95eceba127c81ec187cee163510ee0f"
 
 [[files]]
 file = "mods/block-swap.pw.toml"
@@ -39414,6 +39413,11 @@ metafile = true
 [[files]]
 file = "mods/bygone-fortress.pw.toml"
 hash = "f30b8b78b6a565301dfd42219f81f043c1936403f5e0525bc4f36052220bca1b"
+metafile = true
+
+[[files]]
+file = "mods/caelus.pw.toml"
+hash = "55d9f1bfa65b3df621c949647ca2cf6b89b66159cb98bd2d834ad8a3c9e63329"
 metafile = true
 
 [[files]]
@@ -40110,6 +40114,11 @@ hash = "d694a3b09dd40d557633a2ca0707f2f6ecaf04c62f539ce159435159f73d42c6"
 metafile = true
 
 [[files]]
+file = "mods/origins-forge.pw.toml"
+hash = "e87d3a2c6180f404ecdbb9179f2cdf884167a687c4f93de50d525e3ec3c69d16"
+metafile = true
+
+[[files]]
 file = "mods/overflowing-bars.pw.toml"
 hash = "d109988faab08133df07d7eda6b1e9df1d7f393ab8061a6bfe83dfc2e406b93d"
 metafile = true
@@ -40127,6 +40136,11 @@ metafile = true
 [[files]]
 file = "mods/peeping-angels.pw.toml"
 hash = "72a59c2986711752107afb9877fe7eebed964a276d09beb6dbe088fb992d52cf"
+metafile = true
+
+[[files]]
+file = "mods/pehkui.pw.toml"
+hash = "ecc7f96e163765d1ab9dc8e6d458307d7021f711a28f1665a9f197fd353ecd23"
 metafile = true
 
 [[files]]
