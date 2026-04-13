@@ -40119,8 +40119,18 @@ hash = "e87d3a2c6180f404ecdbb9179f2cdf884167a687c4f93de50d525e3ec3c69d16"
 metafile = true
 
 [[files]]
+file = "mods/origins-plus-plus.pw.toml"
+hash = "b887818051a2e7db26952c0852de75d9a23d39d3144f2716ef375b95115a1b59"
+metafile = true
+
+[[files]]
 file = "mods/overflowing-bars.pw.toml"
 hash = "d109988faab08133df07d7eda6b1e9df1d7f393ab8061a6bfe83dfc2e406b93d"
+metafile = true
+
+[[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "c1629f045dd324a286871a1d2503bb0cf22cdb8a354da2d07dc7cef3e9afcada"
 metafile = true
 
 [[files]]
