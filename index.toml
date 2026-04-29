@@ -39975,6 +39975,11 @@ hash = "4213fbf3c69dda9733f205d6a0d8d130cccb10f4271cd6a469bf3c99fa358c89"
 metafile = true
 
 [[files]]
+file = "mods/lootr.pw.toml"
+hash = "4d4bdfac7b91e46d891fdfe1565dc06df0a15c73bc944c0f5a10f13bba38814a"
+metafile = true
+
+[[files]]
 file = "mods/mace-backport.pw.toml"
 hash = "a1c4630b59d10e70e9821bcecb759cdeac30ab67c7ec475dc335f231761ce8ac"
 metafile = true
