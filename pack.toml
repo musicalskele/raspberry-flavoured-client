@@ -1,12 +1,12 @@
 name = "rosa-rf"
 author = "raspmary"
-version = "0.0.4"
+version = "0.0.5"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "836bba5ec5adfa05042959cf9892c4dd7094aca0f0fa2613722c37ab081a3780"
+hash = "364f9376183b8cfc5fdc27463d8137f0576b2356a85f8ccaa7485ac9c7d61098"
 
 [versions]
 forge = "43.5.1"
