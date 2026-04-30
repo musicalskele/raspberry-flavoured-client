@@ -40334,6 +40334,11 @@ hash = "dda18cb30c6c88e7f45e29dfeb32273da72c159eb4e3469080d27ae2ff5a7fe9"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "94d847f9ab8d0ed0ac010c25b8fa85d25a235069e4dd487194c176f4617588f4"
+metafile = true
+
+[[files]]
 file = "mods/spelunkery.pw.toml"
 hash = "a49781d3067619ea33dc9c3f9e3ea4b2a5850811cb91f9e646789318a587c21e"
 metafile = true
